@@ -1,3 +1,9 @@
+dwarves-dfsg (1.17-1pop0) focal; urgency=medium
+
+  * Pop!_OS patches
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 19 Oct 2020 13:57:28 -0600
+
 dwarves-dfsg (1.17-1) unstable; urgency=low
 
   * New upstream release (changes since 1.16):
